@@ -32,8 +32,6 @@ const Footer = () => {
             <h4 className="font-bold text-lg mb-4">Quick Links</h4>
             <ul className="space-y-2">
               <li><a href="#facts" className="hover:text-panda-bamboo transition-colors">Panda Facts</a></li>
-              <li><a href="#habitat" className="hover:text-panda-bamboo transition-colors">Habitats</a></li>
-              <li><a href="#sanctuaries" className="hover:text-panda-bamboo transition-colors">Sanctuaries & Zoos</a></li>
               <li><a href="#conservation" className="hover:text-panda-bamboo transition-colors">Conservation</a></li>
             </ul>
           </div>

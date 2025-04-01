@@ -22,8 +22,6 @@ const Navbar = () => {
           
           <div className="hidden md:flex space-x-8">
             <a href="#facts" className="text-gray-700 hover:text-panda-green font-medium transition-colors">Facts</a>
-            <a href="#habitat" className="text-gray-700 hover:text-panda-green font-medium transition-colors">Habitat</a>
-            <a href="#sanctuaries" className="text-gray-700 hover:text-panda-green font-medium transition-colors">Sanctuaries</a>
             <a href="#conservation" className="text-gray-700 hover:text-panda-green font-medium transition-colors">Conservation</a>
           </div>
           
@@ -50,20 +48,6 @@ const Navbar = () => {
               onClick={() => setMobileMenuOpen(false)}
             >
               Facts
-            </a>
-            <a 
-              href="#habitat" 
-              className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-panda-green-light hover:text-white"
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              Habitat
-            </a>
-            <a 
-              href="#sanctuaries" 
-              className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-panda-green-light hover:text-white"
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              Sanctuaries
             </a>
             <a 
               href="#conservation" 
