@@ -31,7 +31,7 @@ const HabitatSection = () => {
     {
       id: 'reserves',
       name: 'Nature Reserves',
-      description: 'China has established over 60 nature reserves dedicated to protecting giant pandas and their habitat. These reserves cover more than 60% of the pandas' natural habitat and approximately 70% of the wild panda population.',
+      description: 'China has established over 60 nature reserves dedicated to protecting giant pandas and their habitat. These reserves cover more than 60% of the pandas\' natural habitat and approximately 70% of the wild panda population.',
       image: 'https://images.unsplash.com/photo-1527904324834-3bda86da6771?q=80&w=2004&auto=format&fit=crop',
       characteristics: [
         'Protected status',

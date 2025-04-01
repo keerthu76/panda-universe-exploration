@@ -26,7 +26,7 @@ const SanctuarySection = () => {
     {
       name: 'Wolong National Nature Reserve',
       location: 'Wenchuan County, Sichuan, China',
-      description: 'One of China's earliest and largest panda reserves, with a focus on habitat conservation and wild panda protection.',
+      description: 'One of China\'s earliest and largest panda reserves, with a focus on habitat conservation and wild panda protection.',
       website: 'https://www.wwf.org.uk/where-we-work/places/wolong-nature-reserve',
       type: 'Protected Reserve',
       pandas: '150+ (wild)',
